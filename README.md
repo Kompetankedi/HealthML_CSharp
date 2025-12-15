@@ -1,3 +1,5 @@
+https://chatgpt.com/share/693ff30a-3d24-800a-967c-b9368e5e6719
+
 # C# WinForms – KNN ile Obezite Sınıflandırma Projesi
 
 Bu proje, C# WinForms ve .NET Framework kullanılarak CSV formatındaki bir veri seti üzerinde
